@@ -12,4 +12,4 @@
 
 🌒 So, welcome to my GitHub profile!!!
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=monokai)
