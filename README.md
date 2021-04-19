@@ -1,4 +1,6 @@
-👋 Yah! My name is Emily Felicio.
+
+
+<h1>👋 Yah! My name is Emily Felicio.</h1>
 
 💻 I really like to program...
 
