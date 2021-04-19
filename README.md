@@ -12,4 +12,4 @@
 
 🌒 So, welcome to my GitHub profile!!!
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emily%20Felicio&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilyFelicio&theme=vue)
