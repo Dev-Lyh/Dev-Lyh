@@ -1,7 +1,5 @@
+<h1 align="center">👋 Yah! My name is Emily Felicio.</h1>
 
-<div style="text-align: justify">
-<h1>👋 Yah! My name is Emily Felicio.</h1>
-</div>
 💻 I really like to program...
 
 🎯 And as much as I am very young, I know this is what I want.
