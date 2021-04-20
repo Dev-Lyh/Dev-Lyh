@@ -12,5 +12,5 @@
 
 🌒 So, welcome to my GitHub profile!!!
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilyFelicio&theme=default"/>
+![] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" />
