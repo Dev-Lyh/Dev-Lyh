@@ -12,5 +12,5 @@
 
 🌒 So, welcome to my GitHub profile!!!
 
-<img background="red" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilyFelicio&theme=dracula"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dracula" />
+<img background="red" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilyFelicio&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" />
