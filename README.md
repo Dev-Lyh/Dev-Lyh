@@ -16,19 +16,19 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
   
-  <p align="center">Meaning of status emojis</p>
+  <h2 align="center">Meaning of status emojis</h2>
   <hr>
   <p align="center">🌑</p>
-  <p align="center">Abandoned</p>
+  <h3 align="center">Abandoned</h3>
   <hr>
   <p align="center">🌓</p>
-  <p align="center">Being made</p>
+  <h3 align="center">Being made</h3>
   <hr>
   <p align="center">🌕</p>
-  <p align="center">Complete</p>
+  <h3 align="center">Complete</h3>
   <hr>
   <p align="center">🌘</p>
-  <p align="center">With bugs</p>
+  <h3 align="center">With bugs</h3>
   <hr>
   <p align="center">🌐</p>
-  <p align="center">Published</p>
+  <h3 align="center">Published</h3>
