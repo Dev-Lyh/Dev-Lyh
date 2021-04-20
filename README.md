@@ -17,7 +17,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
   
   <h2 align="center">Meaning of status emojis</h2>
-  <hr>
   <p align="center">🌑</p>
   <h3 align="center">Abandoned</h3>
   <hr>
