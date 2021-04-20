@@ -16,31 +16,32 @@
 
 <p align="center">Meaning of status emojis</p>
 
-<table>
-  <tr>
-    <th>Emojis</th>
-    <th>Meaning</th>
-  </tr>
-  <tr>
-    <td align="center">🌑</td>
-    <td align="center">Abandoned</td>
-  </tr>
-  <tr>
-    <td align="center">🌓</td>
-    <td align="center">Being made</td>
-  </tr>
-  <tr>
-    <td align="center">🌕</td>
-    <td align="center">Complete</td>
-  </tr>
-  <tr>
-    <td align="center">🌘</td>
-    <td align="center">With bugs</td>
-  </tr>
-  <tr>
-    <td align="center">🌐</td>
-    <td align="center">Published</td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" />
+<p align="center">
+  <table>
+    <tr>
+      <th>Emojis</th>
+      <th>Meaning</th>
+    </tr>
+    <tr>
+      <td align="center">🌑</td>
+      <td align="center">Abandoned</td>
+    </tr>
+    <tr>
+      <td align="center">🌓</td>
+      <td align="center">Being made</td>
+    </tr>
+    <tr>
+      <td align="center">🌕</td>
+      <td align="center">Complete</td>
+    </tr>
+    <tr>
+      <td align="center">🌘</td>
+      <td align="center">With bugs</td>
+    </tr>
+    <tr>
+      <td align="center">🌐</td>
+      <td align="center">Published</td>
+    </tr>
+  </table>
+</p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
