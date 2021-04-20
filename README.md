@@ -14,9 +14,8 @@
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
 </div>
 
-<p align="center">Meaning of status emojis</p>
-
-<p align="center">
+<p>Meaning of status emojis</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
   <table>
     <tr>
       <th>Emojis</th>
@@ -43,5 +42,3 @@
       <td align="center">Published</td>
     </tr>
   </table>
-</p align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
