@@ -1,15 +1,46 @@
 <h1 align="center">👋 Yah! My name is Emily Felicio.</h1>
 
-💻 I really like to program...
+<div align="center">
+  <p align="center">💻 I really like to program</p>
 
-🎯 And as much as I am very young, I know this is what I want.
+  <p align="center">🎯 And as much as I am very young, I know this is what I want</p>
 
-🎓📁 Well, here you will see some of the exercises that I do during my course and some personal projects!
+  <p align="center">🎓📁 Well, here you will see some of the exercises that I do during my course and some personal projects!</p>
 
-💾💡 I'm not very experienced with other programming languages, but I'm starting to learn C # and Python right now (📅 April 5, 2021).
+  <p align="center">💾💡 I'm not very experienced with other programming languages, but I'm starting to learn C # and Python right now</p>
 
-💭 I think that's just it... for now.
+  <p align="center">💭 I think that's just it... for now</p>
 
-🌒 So, welcome to my GitHub profile!!!
+  <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
+</div>
+
+<p align="center">Meaning of status emojis</p>
+
+<table>
+  <tr>
+    <th>Emojis</th>
+    <th>Meaning</th>
+  </tr>
+  <tr>
+    <td align="center">🌑</td>
+    <td align="center">Abandoned</td>
+  </tr>
+  <tr>
+    <td align="center">🌓</td>
+    <td align="center">Being made</td>
+  </tr>
+  <tr>
+    <td align="center">🌕</td>
+    <td align="center">Complete</td>
+  </tr>
+  <tr>
+    <td align="center">🌘</td>
+    <td align="center">With bugs</td>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td align="center">Published</td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" />
