@@ -13,8 +13,11 @@
 
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
 </div>
-
+<br>
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&layout=compact&theme=dark" /></p align="center">
+<br>
+<br>
   
   <h2 align="center">Meaning of status emojis</h2>
   <p align="center">🌑</p>
