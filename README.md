@@ -20,27 +20,87 @@
   <p>Meaning of status emojis</p>
   <table>
     <tr>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
       <th>Emojis</th>
       <th>Meaning</th>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
+      <th>******</th>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center">🌑</td>
       <td align="center">Abandoned</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center">🌓</td>
       <td align="center">Being made</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center">🌕</td>
       <td align="center">Complete</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center">🌘</td>
       <td align="center">With bugs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center">🌐</td>
       <td align="center">Published</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
