@@ -16,7 +16,12 @@
 </div>
 <br>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8" /></p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=USER404&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=radical" /> 
+</p align="center">
+
 <br>
 <br>
   
