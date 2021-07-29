@@ -14,7 +14,7 @@
 
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
   
-  <img src="./svgs/java.svg">
+  <img src="../svgs/java.svg">
 
 </div>
 <br>
