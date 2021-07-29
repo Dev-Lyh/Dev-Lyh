@@ -23,7 +23,6 @@
   <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=radical" />
   <br>
   <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=USER404&theme=radical" />
-  <i class="devicon-html5-plain colored"></i>
 </p align="center">
 
 <br>
