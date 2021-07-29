@@ -13,6 +13,8 @@
   <p align="center">💭 I think that's just it... for now</p>
 
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
+  
+  <img src="./svgs/java.svg">
 
 </div>
 <br>
