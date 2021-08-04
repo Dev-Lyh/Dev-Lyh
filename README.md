@@ -1,4 +1,5 @@
 <h1 align="center">👋 Yah! My name is Emily Felicio.</h1>
+<link rel="stylesheet" href="devicon.min.css">
 <br>
 <br>
 <div align="center">
@@ -13,9 +14,18 @@
   <p align="center">💭 I think that's just it... for now</p>
 
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
-  
-  <img src="../svgs/java.svg">
 
+  <br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  
+  
 </div>
 <br>
 <br>
