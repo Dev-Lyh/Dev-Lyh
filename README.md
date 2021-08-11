@@ -30,11 +30,11 @@
 <br>
 <br>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=yeblu" />
   <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=radical" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=yeblu" />
   <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=USER404&theme=radical" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=USER404&theme=yeblu" />
 </p align="center">
 
 <br>
