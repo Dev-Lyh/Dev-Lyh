@@ -14,6 +14,8 @@
   <p align="center">💭 I think that's just it... for now</p>
 
   <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
+  
+  <a href="https://emilyfelicio-portfolio.vercel.app/" style="text-decoration: none;">👉 Visit my portfolio!</a>
 
   <br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -34,7 +36,7 @@
   <br>
   <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=yeblu" />
   <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=USER404&theme=yeblu" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=dev-lyh-portfolio&theme=yeblu" />
 </p align="center">
 
 <br>
