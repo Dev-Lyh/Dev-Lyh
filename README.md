@@ -32,11 +32,11 @@
 <br>
 <br>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=yeblu" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=monokai" />
   <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=yeblu" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=monokai" />
   <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=dev-lyh-portfolio&theme=yeblu" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=dev-lyh-portfolio&theme=monokai" />
 </p align="center">
 
 <br>
