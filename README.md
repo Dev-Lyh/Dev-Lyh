@@ -1,59 +1,28 @@
-<h1 align="center">👋 Yah! My name is Emily Felicio.</h1>
-<h2 align="center">
-  <a href="https://emilyfelicio-portfolio.vercel.app/" style="text-decoration: none;">👉 Visit my portfolio!</a>
-</h2>
-<br>
-<br>
-<div align="center">
-  <p align="center">💻 I really like to program</p>
+<h1 align="left">💡 Olá! Meu nome é Emily Felicio.</h1>
+<div align="left">
+  <p>💻 Eu realmente amo programar</p>
 
-  <p align="center">🎯 And as much as I am very young, I know this is what I want</p>
+  <p>💾 Focando em JavaScript</p>
 
-  <p align="center">🎓📁 Well, here you will see some of the exercises that I do during my course and some personal projects!</p>
+  <p>💭 Acho que é isso, por enquanto...</p>
 
-  <p align="center">💾💡 I'm not very experienced with other programming languages, but I'm starting to learn C # and Python right now</p>
-
-  <p align="center">💭 I think that's just it... for now</p>
-
-  <p align="center">🌒 So, welcome to my GitHub profile!!!</p>
-
+  <p>🌒 Então, Seja muito bem-vindo(a/e) ao meu GitHub!!!</p>
   <br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   
   
 </div>
 <br>
-<br>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFelicio&langs_count=8&theme=monokai" />
-  <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=EmilyFelicio&hide=contribs,prs,issues,&theme=monokai" />
-  <br>
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilyFelicio&repo=dev-lyh-portfolio&theme=monokai" />
-</p align="center">
-
-<br>
-<br>
+<p align="left">
+  <a href="https://www.instagram.com/devlyhzzz.cs/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff2b2b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/devlyhzzz.cs/"/>
+  </a>
   
-  <h2 align="center">Meaning of status emojis</h2>
-  <p align="center">🌑</p>
-  <h3 align="center">Abandoned</h3>
-  <hr>
-  <p align="center">🌓</p>
-  <h3 align="center">Being made</h3>
-  <hr>
-  <p align="center">🌕</p>
-  <h3 align="center">Complete</h3>
-  <hr>
-  <p align="center">🌘</p>
-  <h3 align="center">With bugs</h3>
-  <hr>
-  <p align="center">🌐</p>
-  <h3 align="center">Published</h3>
+  <a href="https://www.linkedin.com/in/emily-carvalho-felicio/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-ff2b2b?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/emily-carvalho-felicio/"/>
+  </a>
+</p>
