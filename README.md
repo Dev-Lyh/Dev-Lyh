@@ -1,4 +1,5 @@
 <h1 align="left">💡 Olá! Meu nome é Emily Felicio.</h1>
+<img src="icon-readme.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo lyh">
 <div align="left">
   <p>💻 Eu realmente amo programar</p>
 
