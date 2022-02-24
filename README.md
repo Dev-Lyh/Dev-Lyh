@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="left">
-  <img src="tools.svg" min-width="300px" max-width="300px" width="300px" align="left" alt="Ferramentas"/>
+  <img src="tools.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Ferramentas"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
