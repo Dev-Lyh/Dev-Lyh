@@ -25,6 +25,8 @@
   <img src="tools.svg" min-width="300px" max-width="300px" width="300px" alt="Ferramentas"/>
 </div>
 <br>
+<br>
+<br>
 <p align="left">
   <a href="https://www.instagram.com/devlyhzzz.cs/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff2b2b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/devlyhzzz.cs/"/>
