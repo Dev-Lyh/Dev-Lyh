@@ -1,5 +1,5 @@
 <h1 align="left"> 🔴Olá! Meu nome é Emily Felicio.</h1>
-<img src="readme-icon.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="logo lyh">
+<img src="readme-icon.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="logo lyh">
 <div align="left">
   <p>💻 Eu realmente amo programar</p>
 
@@ -16,8 +16,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <br>
-<div align="left">
-  <img width="40" src="tools.svg" min-width="300px" max-width="300px" width="300px" align="left" alt="Ferramentas"/>
+<div align="right">
+  <img src="tools.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Ferramentas"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
