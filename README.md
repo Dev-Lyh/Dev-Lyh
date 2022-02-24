@@ -8,6 +8,8 @@
   <p>💭 Acho que é isso, por enquanto...</p>
 
   <p>🌒 Então, Seja muito bem-vindo(a/e) ao meu GitHub!!!</p>
+  <br>
+<br>
   <img src="languages.svg" min-width="300px" max-width="300px" width="300px" align="left" alt="Linguagens"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -15,6 +17,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+<br>
 <br>
 <div align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -24,7 +27,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img src="tools.svg" min-width="300px" max-width="300px" width="300px" alt="Ferramentas"/>
 </div>
-<br>
 <br>
 <br>
 <p align="left">
