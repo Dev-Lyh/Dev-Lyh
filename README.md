@@ -18,6 +18,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <br>
+<img src="line.svg" min-width="300px" max-width="300px" width="520px" align="center" alt="Linha"/>
 <br>
 <div align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
