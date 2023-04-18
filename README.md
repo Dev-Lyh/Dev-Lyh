@@ -39,4 +39,4 @@
     <img src="https://img.shields.io/badge/-Linkedin-ff2b2b?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/emily-carvalho-felicio/"/>
   </a>
 </p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lyh&layout=transparent' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lyh&layout=compact&theme=transparent&title_color=ff2b2b&text_color=ff2b2b' />
