@@ -1,13 +1,13 @@
-<h1 align="left">Olá! Meu nome é Emily Felicio.</h1>
+<h1 align="left">Hello! My name is Emily Felicio.</h1>
 <img src="readme-icon.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="logo lyh">
 <div align="left">
-  <p>💻 Eu realmente amo programar</p>
+  <p>💻 I love software development</p>
 
-  <p>💾 Focando em JavaScript</p>
+  <p>💾 Knowledges in Javsscript</p>
 
-  <p>💭 Acho que é isso, por enquanto...</p>
+  <p>💭 Studying Software Engineering...</p>
 
-  <p>🌒 Então, Seja muito bem-vindo(a/e) ao meu GitHub!!!</p>
+  <p>🌒 So, be welcome to my Github!!!</p>
   <br>
 <br>
   <img src="languages.svg" min-width="300px" max-width="300px" width="300px" align="left" alt="Linguagens"/>
