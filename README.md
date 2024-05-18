@@ -11,11 +11,11 @@
   <br>
 <br>
   <img src="languages.svg" min-width="300px" max-width="300px" width="300px" align="left" alt="Linguagens"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 <br>
 <img src="line.svg" min-width="300px" max-width="300px" width="520px" align="center" alt="Linha"/>
@@ -39,4 +39,4 @@
     <img src="https://img.shields.io/badge/-Linkedin-ff2b2b?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/emily-carvalho-felicio/"/>
   </a>
 </p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lyh&layout=compact&theme=transparent&title_color=ff2b2b&text_color=ff2b2b' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lyh&layout=compact&theme=dark' />
