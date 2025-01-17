@@ -28,8 +28,8 @@
 <br>
 <br>
 <p align="left">  
-  <a href="https://www.linkedin.com/in/emily-carvalho-felicio/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff2b2b?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/emily-carvalho-felicio/"/>
+  <a href="https://www.linkedin.com/in/emily-carvalho-felicio/" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-c91212?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/emily-carvalho-felicio/"/>
   </a>
 </p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lyh&layout=compact&theme=shadow_red' />
