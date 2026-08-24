@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Emily 👋
 
-<!--
-**Dev-Lyh/Dev-Lyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer · SaaS · AI · Product Engineering
 
-Here are some ideas to get you started:
+I build software focused on making complex workflows feel **simple, intuitive and useful**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives in **private repositories**, where I develop and maintain commercial products — from SaaS platforms and internal tools to automation and AI-powered applications.
+
+```text
+> currently building things people actually use_
+```
+
+### ✦ What I work with
+
+**Frontend**
+TypeScript · React · Next.js
+
+**Backend**
+Node.js · Python · REST APIs
+
+**Data & Infrastructure**
+PostgreSQL · Redis · Docker
+
+**Currently exploring**
+AI Engineering · LLM Applications · Swift & iOS Development
+
+### ✦ Things I care about
+
+`clean code` · `good UX` · `useful AI` · `simple interfaces` · `reliable software`
+
+I enjoy working at the intersection of **engineering and product** — thinking not only about how something should be built, but *why it should exist and how it should feel to use.*
+
+---
+
+<sub>☕ Most of the interesting stuff is private. I'm still coding, I promise.</sub>
