@@ -13,20 +13,20 @@ Most of my work lives in **private repositories**, where I develop and maintain 
 ### ✦ What I work with
 
 **Frontend**
-TypeScript · React · Next.js
+Javascript · React
 
 **Backend**
-Node.js · Python · REST APIs
+Node.js · REST APIs
 
 **Data & Infrastructure**
 PostgreSQL · Redis · Docker
 
 **Currently exploring**
-AI Engineering · LLM Applications · Swift & iOS Development
+AI Engineering · LLM Applications
 
 ### ✦ Things I care about
 
-`clean code` · `good UX` · `useful AI` · `simple interfaces` · `reliable software`
+`clean code` · `good UX` · `useful AI` · `simple interfaces` · `reliable software` · `pattern`
 
 I enjoy working at the intersection of **engineering and product** — thinking not only about how something should be built, but *why it should exist and how it should feel to use.*
 
